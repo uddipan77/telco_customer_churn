@@ -2,7 +2,7 @@
 
 ### Demo
 
-https://github.com/uddipanbb/telco_customer_churn/assets/churn.mp4
+[▶️ Watch Demo Video](./assets/churn.mp4)
 
 ### Purpose
 
